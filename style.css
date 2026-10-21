@@ -4,12 +4,12 @@ body {
     color: #FFFFFF;
 }
 
-.kartu_nama {
+.kartu-nama {
     width: 350px;
     margin: 50px auto;
     padding: 30px;
-    background-color: #f0f0f0;
-    color: #333333;
+    background-color: white;
+    color: black;
     border-radius: 30px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     text-align: center;
