@@ -4,7 +4,7 @@ body {
   color:#FFFFE0;
 }
 .kartu_nama {
-  width: 300px;
+  width: 350px;
   margin: 50px auto;
   pading: 30px;
   background-color: #f0ffcc;
@@ -12,8 +12,8 @@ body {
   box-shadow:0 4px 10px rgba(0, 0, 0, 0.2)
 }
 .kartu-profil img {
-  width: 150px
-  border-radius: 50px;
+  width: 200px
+  border-radius: 5px;
 }
 .kartu-profil{
   text-align: center;
